@@ -3,6 +3,8 @@
 [![codecov](https://codecov.io/gh/advancedtelematic/rvi_sota_server/branch/master/graph/badge.svg)](https://codecov.io/gh/advancedtelematic/rvi_sota_server)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/538/badge)](https://bestpractices.coreinfrastructure.org/projects/538)
 
+# Hello German Defence Team 
+
 # GENIVI SOTA Project
 
 This project is the top-level git repository for the GENIVI SOTA project.
